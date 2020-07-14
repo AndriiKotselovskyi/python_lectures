@@ -1,0 +1,8 @@
+id,priority,details,status,deadline,completed,Project
+1001,1,Bet-win system,done,15.06.2020,14.06.2020,Wallet
+1002,2,Bonus award,canceled,30.06.2020,30.06.2020,Wallet
+1003,3,Free spins system,pending,30.06.2020,,Wallet
+2001,1,Games on Stage,done,15.06.2020,15.06.2020,Casino
+2002,2,Games on Prod,new,31.07.2020,,Casino
+3001,3,Sportbetting Stage,new,25.07.2020,,Sport
+3002,3,Sportbetting Prod,canceled,15.08.2020,,Sport
